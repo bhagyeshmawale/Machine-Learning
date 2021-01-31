@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 my name is bhagyesh and i am data culsaltant in Pharmaace
 I have 2 years of experiance
+=======
+my name is bhagyesh and i am data culsaltant in Pharmaace,Pune
+>>>>>>> 7e32a1b06cbd60af0f8d4cd5eea2550a1e35601d
